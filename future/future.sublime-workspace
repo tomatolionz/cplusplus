@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"has",
+				"HasPtr"
+			],
+			[
+				"ha",
+				"HasPtr"
+			],
+			[
+				"text",
+				"TextQuery"
+			],
+			[
+				"line",
+				"line_no"
+			],
+			[
+				"qu",
+				"TextQuery"
+			],
+			[
+				"in",
+				"include <header>	KeyWord"
+			],
+			[
+				"coun",
+				"use_count"
+			],
+			[
+				"size",
+				"size_type	Typedef"
+			],
+			[
+				"ren",
+				"rend() const	const_reverse_iterator"
+			],
+			[
+				"en",
+				"end() const	const_iterator"
+			],
+			[
+				"be",
+				"begin() const	const_iterator"
+			],
+			[
+				"for",
+				"for(init-statement;condition;inc-expression){\nstatements\n}	KeyWord"
+			],
+			[
+				"tr",
+				"try{statements\n}catch(declaration){statements\n}	KeyWord"
+			],
+			[
+				"set",
+				"setUniversalset(const set<string> &uSet)	void"
+			],
+			[
+				"Op",
+				"OrOperator"
+			],
+			[
+				"get",
+				"getData()	string"
+			],
+			[
+				"inc",
+				"include <header>	KeyWord"
+			],
+			[
+				"ret",
+				"return	KeyWord"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"op",
+				"oper2	const string &"
+			],
+			[
+				"to",
+				"TokenType"
+			],
+			[
+				"if",
+				"if(condition){statements\n}	KeyWord"
+			],
+			[
+				"p",
+				"parser"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/g++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/g++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/tomatoMake.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"All"
+				]
+			],
+			[
+				"Packages/User/tomatoMake.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/tomatoMake.sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/User/tomatoMake.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"do",
+				"Snippet: Do While Loop"
+			],
+			[
+				"class",
+				"Snippet: class-..-(class)"
+			],
+			[
+				"while",
+				"Snippet: While loop"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"if",
+				"Snippet: If Condition"
+			],
+			[
+				"u",
+				"Permute Lines: Unique"
+			],
+			[
+				"Snippet: i",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"snippet:if",
+				"Snippet: if(…) else if(…) else"
+			],
+			[
+				"snippet:class",
+				"Snippet: class-..-(class)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: c",
+				"Snippet: If Condition"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhoulei/Documents/TomatoProjects/future/main.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/copyControl/makefile",
+		"/Users/zhoulei/Documents/TomatoProjects/heapObject/main.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/concurrency/main.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/textQuery/Debug/result",
+		"/Users/zhoulei/Documents/TomatoProjects/textQuery/Debug/fileTomato",
+		"/Users/zhoulei/Documents/TomatoProjects/textQuery/Debug/test.txt",
+		"/Users/zhoulei/Documents/TomatoProjects/textQuery/makefile",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/reference.md",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/README.md",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zhoulei/Documents/TomatoProjects/atof/main.cpp",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/c++/4.2.1/cstdarg",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/Clang Format/clang_format.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/auto-save/README.md",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/ClangAutoComplete.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/auto-save/Default (OSX).sublime-keymap",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
+		"/Users/zhoulei/Documents/TomatoProjects/atof/atof.sublime-project",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/Default.sublime-keymap",
+		"/Users/zhoulei/Desktop/test.cpp",
+		"/Users/zhoulei/Documents/项目申请.txt",
+		"/Users/zhoulei/Library/Application Support/Karabiner/private.xml",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/TableManager.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/TableManager.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/main.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/Operator.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/ExpressionParser.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/ExpressionParser.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/AndOperator.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/NotOperator.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/NotOperator.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/AndOperator.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/OrOperator.cpp",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/OrOperator.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/TreeNode.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/TokenType.h",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/UTIL.h",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Users/zhoulei/Documents/TomatoProjects/ExpressionParser/ExpressionParser.sublime-project",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/zhoulei/Documents/ExpressionParser/ExpressionParser.cpp",
+		"/Users/zhoulei/Documents/ExpressionParser/ExpressionParser.h",
+		"/Users/zhoulei/Documents/ExpressionParser/makefile",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/tomatoMake.sublime-build",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zhoulei/Documents/ExpressionParser/ExpressionParser.sublime-workspace",
+		"/Users/zhoulei/Documents/ExpressionParser/ExpressionParser.sublime-project",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/tomato.sublime-build",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/my g++.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/g++.sublime-settings",
+		"/Users/zhoulei/Documents/ExpressionParser/main.cpp",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/g++",
+		"/Users/zhoulei/Documents/TomatoProjects/helloworld.c",
+		"/Users/zhoulei/Documents/TomatoProjects/test.c",
+		"/Users/zhoulei/Desktop/一定得选最好的黄金地段",
+		"/Users/zhoulei/Desktop/Tantic.txt",
+		"/Users/zhoulei/Documents/TomatoProjects/atof.c",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/C.sublime-settings",
+		"/Users/zhoulei/Library/Application Support/Sublime Text 3/Packages/User/g++.sublime-build"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if",
+			"DEBUG",
+			"    \n",
+			"make_plural",
+			"*/\n",
+			"++",
+			"11",
+			";\n",
+			"for",
+			"if",
+			"/*",
+			"std",
+			"int",
+			"std",
+			"shared_ptr",
+			"rcomma",
+			" <<",
+			"comma",
+			"statements",
+			"functional",
+			"6",
+			"statements",
+			"be",
+			"ifstream",
+			"string",
+			"std",
+			"exception",
+			"endl",
+			"cout",
+			"printf",
+			"notset",
+			"remember",
+			"remember_open_files",
+			"\"\";",
+			"、LMT（LTE）、CDL、本地维护工具、MML、操作日志解析工具、基站诊断工具、隐性故障诊断工具、67号日志解析工具",
+			"font",
+			"scroll_past_end",
+			";\n",
+			"\"\n",
+			"OrOperator",
+			"AndOperator",
+			"NotOperator",
+			"tblOperator",
+			"PlusOperator",
+			"tblOperator",
+			"isHighPriority",
+			"tokenStack",
+			"getToken=",
+			"string",
+			"\n#",
+			"(string",
+			"(",
+			"isOperator",
+			"string",
+			"取得单词类型",
+			"型",
+			"if",
+			"{",
+			"java",
+			"static",
+			"TableManager",
+			"stack",
+			"String",
+			"string",
+			"> ",
+			"stack",
+			"exprStack",
+			"bracket_styles",
+			"bracket_styles{}",
+			"if",
+			"ctrl+shift+b",
+			"\"\n",
+			"init",
+			"const",
+			"value",
+			"int",
+			"expo",
+			"s",
+			"factor",
+			"expo",
+			"  \n",
+			"sign",
+			"isspace",
+			"endptr",
+			" \"-",
+			"return",
+			"delete",
+			"printf",
+			"skip",
+			"printf",
+			" \n",
+			"printf",
+			"long",
+			"数字的字符。如果字符串是空的或者都是由空格组成，将不会",
+			"sh",
+			"case",
+			"FACTOR",
+			";\n",
+			"FACTOR",
+			"case",
+			"register",
+			"  \n",
+			"printf",
+			"value",
+			"double"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"OrOperator"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.cc":
+	{
+		"height": 224.0
+	},
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/tomatoMake.sublime-build",
+	"project": "future.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"~/documents/tomatoprojects/atof.c",
+				"~/Documents/TomatoProjects/atof.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"~/Documents/ExpressionParser/ExpressionParser.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 167.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"QueryResult"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

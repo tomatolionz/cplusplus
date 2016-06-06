@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"leveldb.sublime-project"
+			],
+			"path": "/Users/zhoulei/Documents/TomatoProjects/leveldb-master"
+		}
+	]
+}
